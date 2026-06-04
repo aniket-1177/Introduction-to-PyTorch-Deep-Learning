@@ -1,2 +1,3 @@
 .venv
 iris_model.pt
+cnn_data
